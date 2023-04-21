@@ -2,15 +2,15 @@
 #### Application Project Manager | Full Stack Developer (In-training)
 ![Header](./github-header-image-2.png)
 
-I'm JS from Singapore. Discovered interest in implementing software application project when I was assigned to implement software application at the beginning of my career.  Made the switch to IT industry in 2022 and am working to build technical knowledge in full stack development.
+I'm JS from Singapore. Discovered interest in implementing software application project when I was assigned to implement software applications at the beginning of my career. Made the switch to IT industry in 2022, and I am working to build technical knowledge in full stack development.
 
-Hope to service my company's clients more effectively with these knowledge. 
+Hope to service my company's clients more effectively with this knowledge.
 
-Interested in full-time positions that require experience with application delivery, lead generation/management and customer service. Roles such as Application Project Manager, Customer Success Manager or Account Management.
+Interested in full-time positions that require experience with application delivery, lead generation/management and customer service. Roles such as Application Project Manager, Customer Success Manager or Account Management..
 
 Skills:  REACT / JS 
 
-- 🌱 I’m currently learning Java, Springboot 
+- 🌱 I’m currently learning Java, Spring Boot
 - ⚡ Fun fact: Pawrent to 3 lovely boys, enjoys anime and road cycling. 
 
 <div>
