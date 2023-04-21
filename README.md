@@ -13,8 +13,7 @@ Skills:  REACT / JS
 - 🌱 I’m currently learning Java, Springboot 
 - ⚡ Fun fact: Father to 3 lovely cats, enjoys anime and road cycling. 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jswee1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jian-sheng-wee//)   
+   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jswee1)](https://github.com/anuraghazra/github-readme-stats)
 
