@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Jian Sheng (aka. JS)
-#### Application Project Management | Full Stack Development (In-training)
+#### Application Project Manager | Full Stack Developer (In-training)
 ![Header](./github-header-image-2.png)
 
 I'm JS from Singapore. Discovered interest in implementing software application project when I was assigned to implement software application at the beginning of my career.  Made the switch to IT industry in 2022 and am working to build technical knowledge in full stack development.
