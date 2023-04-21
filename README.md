@@ -12,9 +12,19 @@ Skills:  REACT / JS
 
 - 🌱 I’m currently learning Java, Springboot 
 - ⚡ Fun fact: Father to 3 lovely cats, enjoys anime and road cycling. 
+
+<div class="row">
+   <div class="column">
 <img src="https://github.com/jswee1/jswee1/blob/main/1.jpeg" width= "300"/>
+   </div>
+    <div class="column">
 <img src="https://github.com/jswee1/jswee1/blob/main/2.jpeg" width= "300"/>
+      </div>
+     <div class="column">
 <img src="https://github.com/jswee1/jswee1/blob/main/3.jpeg" width= "300"/>
+        </div>
+   
+ </div>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jswee1)](https://github.com/anuraghazra/github-readme-stats)
