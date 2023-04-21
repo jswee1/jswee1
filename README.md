@@ -14,7 +14,7 @@ Skills:  REACT / JS
 - ⚡ Fun fact: Father to 3 lovely cats, enjoys anime and road cycling. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jswee1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jian-sheng-wee//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/mianmianbaobaos?igshid=ZDdkNTZiNTM=/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jswee1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jian-sheng-wee//)   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jswee1)](https://github.com/anuraghazra/github-readme-stats)
 
