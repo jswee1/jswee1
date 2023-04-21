@@ -14,7 +14,7 @@ Skills:  REACT / JS
 - ⚡ Fun fact: Father to 3 lovely cats, enjoys anime and road cycling. 
 
 <div>
-<img src="https://github.com/jswee1/jswee1/blob/main/1.jpeg" width= "280"/> 
+<img src="https://github.com/jswee1/jswee1/blob/main/1.jpeg" width= "265"/> 
 <img src="https://github.com/jswee1/jswee1/blob/main/2.jpeg" width= "150"/>  
 <img src="https://github.com/jswee1/jswee1/blob/main/3.jpeg" width= "150"/>
  </div>
