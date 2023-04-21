@@ -6,7 +6,7 @@ I'm JS from Singapore. Discovered interest in implementing software application 
 
 Hope to service my company's clients more effectively with this knowledge.
 
-Interested in full-time positions that require experience with application delivery, lead generation/management and customer service. Roles such as Application Project Manager, Customer Success Manager or Account Management..
+Interested in full-time positions that require experience with application delivery, lead generation/management and customer service. Roles such as Application Project Manager, Customer Success Manager or Account Management.
 
 Skills:  REACT / JS 
 
