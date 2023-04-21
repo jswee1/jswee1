@@ -11,7 +11,7 @@ Interested in full-time positions that require experience with application deliv
 Skills:  REACT / JS 
 
 - 🌱 I’m currently learning Java, Springboot 
-- ⚡ Fun fact: Father to 3 lovely cats, enjoys anime and road cycling. 
+- ⚡ Fun fact: Pawrent to 3 lovely boys, enjoys anime and road cycling. 
 
 <div>
 <img src="https://github.com/jswee1/jswee1/blob/main/1.jpeg" width= "267"/> 
