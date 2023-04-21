@@ -12,7 +12,7 @@ Skills:  REACT / JS
 
 - 🌱 I’m currently learning Java, Springboot 
 - ⚡ Fun fact: Father to 3 lovely cats, enjoys anime and road cycling. 
-<img src="https://github.com/jswee1/1.jpeg" width "300"/>
+<img src="https://github.com/jswee1/jswee1/blob/main/1.jpeg" width= "300"/>
    
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jswee1)](https://github.com/anuraghazra/github-readme-stats)
