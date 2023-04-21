@@ -15,13 +15,13 @@ Skills:  REACT / JS
 
 <div class="row">
    <div class="column">
-<img src="https://github.com/jswee1/jswee1/blob/main/1.jpeg" width= "300"/>
+<img src="https://github.com/jswee1/jswee1/blob/main/1.jpeg" width= "150"/>
    </div>
     <div class="column">
-<img src="https://github.com/jswee1/jswee1/blob/main/2.jpeg" width= "300"/>
+<img src="https://github.com/jswee1/jswee1/blob/main/2.jpeg" width= "150"/>
       </div>
      <div class="column">
-<img src="https://github.com/jswee1/jswee1/blob/main/3.jpeg" width= "300"/>
+<img src="https://github.com/jswee1/jswee1/blob/main/3.jpeg" width= "150"/>
         </div>
    
  </div>
