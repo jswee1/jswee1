@@ -4,9 +4,7 @@
 
 I'm JS from Singapore. Discovered interest in implementing software application project when I was assigned to implement software applications at the beginning of my career. Made the switch to IT industry in 2022, and I am working to build technical knowledge in full stack development.
 
-Hope to service my company's clients more effectively with this knowledge.
-
-Interested in full-time positions that require experience with application delivery, lead generation/management and customer service - roles such as Application Project Manager, Customer Success Manager or Account Management in system integrator/software product company.
+Interested in full-time positions that require experience with application delivery, lead generation/management and customer service - roles such as Application Project Manager or IT Operation Manager.
 
 Skills:  REACT / JS 
 
